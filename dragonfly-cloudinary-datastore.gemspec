@@ -19,5 +19,5 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
 
   gem.add_runtime_dependency 'dragonfly', '~> 1.0', '>= 1.0'
-  gem.add_runtime_dependency 'cloudinary', '~> 1.3', '>= 1.3.0'
+  gem.add_runtime_dependency 'cloudinary', '~> 2.0', '>= 1.3.0'
 end
